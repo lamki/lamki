@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with eating
 - 💬 Ask me about food
 - 📫 How to reach me: end of biscuit trail
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: eat/food
+- ⚡ Fun fact: food
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lamki)](https://github.com/anuraghazra/github-readme-stats)
